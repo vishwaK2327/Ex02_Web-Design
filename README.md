@@ -10,10 +10,10 @@
   Create an ordered list using ```<ol>``` tag.
 
 ### STEP-3
-  List the Departments using <li> tag.
+  List the Departments using ```<li>``` tag.
 
 ### STEP-4
-  Create an unordered list using <ul> tag for nesting lists.
+  Create an unordered list using ```<ul>``` tag for nesting lists.
 
 ### STEP-5
   Open the file in a browser and verify the output.
