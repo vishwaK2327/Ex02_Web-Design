@@ -7,7 +7,7 @@
   Open notepad and type the HTML code.
 
 ### STEP-2
-  Create an ordered list using '<ol>' tag.
+  Create an ordered list using ```<ol>``` tag.
 
 ### STEP-3
   List the Departments using <li> tag.
